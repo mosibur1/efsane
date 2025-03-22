@@ -35,8 +35,8 @@ pip install requests colorama anticaptchaofficial
 1. **Clone the Repository**  
 
 ```bash
-git clone https://github.com/Ashuxd-X/Efsanetr.git
-cd Efsanetr
+git clone https://github.com/mosibur1/efsane.git
+cd efsane
 ```
 
 2. **Prepare Proxies**  
