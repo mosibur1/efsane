@@ -41,7 +41,7 @@ def captcha_bypass():
     try:
         solver = turnstileProxyless()
         solver.set_verbose(1)
-        solver.set_key("296c3d4ba479eeb2c80922baaffd65e0")
+        solver.set_key("cdf46283d6f8b47ef9498d8459b5839b")
         solver.set_website_url("https://efsanetr.com")
         solver.set_website_key("0x4AAAAAAA8edKY9bI4XxjIA")
 
