@@ -10,17 +10,13 @@ init(autoreset=True)  # Enable colors in CLI
 # Banner
 def print_banner():
     banner = f"""{Fore.CYAN}
-  ('-.      .-')    ('-. .-.             
-  ( OO ).-. ( OO ). ( OO )  /             
-  / . --. /(_)---\_),--. ,--. ,--. ,--.   
-  | \-.  \ /    _ | |  | |  | |  | |  |   
-.-'-'  |  |\  :` `. |   .|  | |  | | .-') 
- \| |_.'  | '..`''.)|       | |  |_|( OO )
-  |  .-.  |.-._)   \|  .-.  | |  | | `-' /
-  |  | |  |\       /|  | |  |('  '-'(_.-' 
-  `--' `--' `-----' `--' `--'  `-----'  
+   __  ______  ___  _________________ __
+  /  |/  / _ \/ _ \/_  __/ __/ ___/ // /
+ / /|_/ / , _/ ___/ / / / _// /__/ _  / 
+/_/  /_/_/|_/_/    /_/ /___/\___/_//_/  
+                                        
 {Style.RESET_ALL}
-{Fore.YELLOW}[*] Efsanetr Bypass Script - Automated Registration
+{Fore.YELLOW}[*] Efsanetr Bypass Script By MRPTech - Automated Registration
 [*] Developed for educational purposes only!
 [*] Use at your own risk.
 ----------------------------------------------------{Style.RESET_ALL}
